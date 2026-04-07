@@ -1,37 +1,42 @@
 # Hi, I'm Rahul Shah 👋
 
-### Aspiring Software Developer | Java | OOP | Problem Solving
+### Software Developer | Java | .NET | MERN Stack
 
 ---
 
 ## About Me
-Computer Science student focused on Java and backend development.  
-I am building strong fundamentals in OOP, collections, and data structures by solving problems and creating projects.
+Computer Science and Software Engineering graduate (2025) with strong knowledge of OOP, SDLC, and web development.  
+I enjoy building scalable applications and continuously improving my problem solving skills.
 
 ---
 
 ## Skills
-- Java (OOP, Collections)
-- SQL (Basic)
-- Git and GitHub
+- Languages: Java, C#, JavaScript, Python
+- Frameworks: .NET Core, React.js, Node.js, Express.js
+- Database: MySQL, MongoDB
+- Tools: Git, Postman, VS Code
 
 ---
 
-## Currently Learning
-- Data Structures and Algorithms
-- Backend Development
+## Experience
+IT Technical Content Writer  
+Asterisk Digital Pvt. Ltd., Kathmandu  
+- Writing and managing technical articles and documentation
+
+MERN Stack Training  
+- Built full stack applications using MongoDB, Express, React, Node.js
 
 ---
 
 ## Projects
-- Core Java Learning (OOP, Collections, Practice Problems)
-- Elevator Control System (C#)
-- Crop Recommendation System
+- Crop Recommendation System (React, Node.js, Python, ML)
+- eHome E-commerce Website (MERN Stack)
+- Elevator Control System (C#, MySQL)
 
 ---
 
 ## GitHub Stats
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahrahul03&show_icons=true)
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahrahul03&show_icons=true&theme=default&cache_seconds=1800)
 
 ---
 
@@ -41,9 +46,10 @@ I am building strong fundamentals in OOP, collections, and data structures by so
 ---
 
 ## Goal
-To become a skilled software developer by building real-world applications and improving problem solving skills.
+To build scalable and efficient software solutions and grow as a backend developer.
 
 ---
 
 ## Connect with Me
-GitHub: https://github.com/shahrahul03
+- GitHub: https://github.com/shahrahul03
+- Email: Shahmr309@gmail.com
