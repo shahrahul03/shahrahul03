@@ -36,12 +36,12 @@ MERN Stack Training
 ---
 
 ## GitHub Stats
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahrahul03&show_icons=true&theme=default&cache_seconds=1800)
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahrahul03&show_icons=true&theme=tokyonight)
 
 ---
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahrahul03&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahrahul03&layout=compact&theme=tokyonight)
 
 ---
 
